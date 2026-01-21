@@ -1,4 +1,5 @@
-# Installing Frappe Framework and ERPNext on Ubuntu. Open the terminal.
+# Installing Frappe Framework and ERPNext on Ubuntu. 
+Open the terminal.
 
 Step-1: Upgrade the system:
 Bash command: sudo apt update && sudo apt upgrade -y
