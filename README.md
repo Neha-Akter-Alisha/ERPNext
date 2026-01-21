@@ -1,4 +1,4 @@
-Installing Frappe Framework and ERPNext on Ubuntu. Open the terminal.
+# Installing Frappe Framework and ERPNext on Ubuntu. Open the terminal.
 
 Step-1: Upgrade the system:
 Bash command: sudo apt update && sudo apt upgrade -y
@@ -44,7 +44,7 @@ Reload privilege tables? → y
 Change the root password? → Y
 New password: password
 Re-enter new password:password 
-# Enter a strong password — remember this password, because Frappe will ask for it when creating the site.
+/* Enter a strong password — remember this password, because Frappe will ask for it when creating the site.*/
 
 Step-8: Install Node.js (LTS) & Yarn
 curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
