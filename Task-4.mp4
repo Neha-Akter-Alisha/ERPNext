@@ -6,7 +6,7 @@ In Frappe Framework, a Form is the UI you see when you open or create a document
 
 -> Buttons (Save, Submit)
 
--> Client-side logic (via Custom Scripts / client Scripts)
+-> Client-side logic (via Custom Scripts)
 
 -> Server-side logic (via Python)
 
@@ -21,3 +21,4 @@ In Frappe Framework, a Form is the UI you see when you open or create a document
 -> Control field visibility
 
 -> Add custom buttons
+
